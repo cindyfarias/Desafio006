@@ -38,8 +38,12 @@ z-index: 0
 .flecha{
 position: relative;
 top: 5px;
-left: 25px;
+left: 35px;
 color: #dedede;
+}
+
+.educacion{
+	margin-bottom: 5px;
 }
 
 hr{
