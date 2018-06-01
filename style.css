@@ -10,11 +10,11 @@ body{
 background-color: #fff;
 height: auto;
 position: absolute;
-top: 23%;
+top: 10%;
 margin: 0 auto;
 z-index: -1;
 left: 22%;
-padding: 5% 1%;
+padding: 6% 1%;
 }
 
 .img-responsive{
